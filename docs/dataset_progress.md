@@ -11,4 +11,5 @@
 **Day 10 :** 50 canonical sentences and found few variations
 **Day 11 :** 10 canonical sentences and found few variations 
 **Busy:** 25th - 29th January 
-**Day 12 :** 40 canonical sentences
+**Day 12 :** 40 canonical sentences 
+**Day 13 :** 30 canonical sentences
