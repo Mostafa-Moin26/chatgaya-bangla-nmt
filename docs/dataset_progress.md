@@ -14,4 +14,5 @@
 **Day 12 :** 40 canonical sentences 
 **Day 13 :** 30 canonical sentences 
 **Day 14 :** 40 canonical sentences  
-**Busy:** 2nd - 4th February 
+**Busy:** 2nd - 4th February  
+**Day 15 :** 20 canonical sentences
