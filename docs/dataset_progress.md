@@ -36,3 +36,7 @@
 **Day 15 :** 20 canonical sentences 
 
 **Day 16 :** 20 canonical sentences
+
+**Day 17 :** 40 canonical sentences
+
+**--------700 canonical sentences completed---------** 
