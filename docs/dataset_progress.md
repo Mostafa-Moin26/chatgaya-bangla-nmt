@@ -39,4 +39,6 @@
 
 **Day 17 :** 40 canonical sentences
 
-**--------700 canonical sentences completed---------** 
+**--------700 canonical sentences completed---------**  
+**Busy :** 8th Feb
+**Day 18 :** 20 canonical sentences
