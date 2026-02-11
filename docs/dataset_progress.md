@@ -45,4 +45,6 @@
 
 **Day 18 :** 20 canonical sentences 
 
-**Day 19 :** 40 canonical sentences
+**Day 19 :** 40 canonical sentences 
+
+**Day 20 :** 40 canonical sentences
