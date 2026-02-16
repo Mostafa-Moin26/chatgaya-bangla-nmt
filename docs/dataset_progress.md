@@ -51,4 +51,6 @@
 
 **Busy :** 12 - 14th February 
 
-**Day 21 :** 20 canonical sentences
+**Day 21 :** 20 canonical sentences 
+
+**Day 22 :** 30 canonical sentences
