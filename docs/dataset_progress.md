@@ -56,3 +56,5 @@
 **Day 22 :** 30 canonical sentences 
 
 **Day 23 :** 10 cannonical sentences 
+
+**Day 24 :** 20 cannonical sentences
