@@ -61,4 +61,6 @@
 
 **Day 25 :** 20 cannonical sentences 
 
-**Day 26 "** 25 cannonical sentences
+**Day 26 :"** 25 cannonical sentences 
+
+**Day 27 :** 15 cannonical sentences
