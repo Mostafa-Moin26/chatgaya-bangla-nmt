@@ -63,4 +63,8 @@
 
 **Day 26 :"** 25 cannonical sentences 
 
-**Day 27 :** 15 cannonical sentences
+**Day 27 :** 15 cannonical sentences 
+
+**Busy :** 22th - 24th February
+
+**Day 28 :** 10 cannonical sentences
