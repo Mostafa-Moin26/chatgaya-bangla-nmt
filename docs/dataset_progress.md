@@ -67,4 +67,10 @@
 
 **Busy :** 22th - 24th February
 
-**Day 28 :** 10 cannonical sentences
+**Day 28 :** 10 cannonical sentences 
+
+**Busy :** 26th Feb - 2nd March 
+
+**Day 29 :** 50 cannonical sentences
+
+**--------1000 canonical sentences completed---------**  
