@@ -74,3 +74,5 @@
 **Day 29 :** 50 cannonical sentences
 
 **--------1000 canonical sentences completed---------**  
+
+**Day 30:** 30 cannonical sentences
