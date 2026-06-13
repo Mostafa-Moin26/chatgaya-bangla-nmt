@@ -76,3 +76,5 @@
 **--------1000 canonical sentences completed---------**  
 
 **Day 30:** 30 cannonical sentences
+
+**Day 31:** 70 cannonical sentences
