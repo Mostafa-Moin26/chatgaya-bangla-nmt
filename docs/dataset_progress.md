@@ -78,3 +78,5 @@
 **Day 30:** 30 cannonical sentences
 
 **Day 31:** 70 cannonical sentences
+
+**Day 32:** 100 cannonical sentences
