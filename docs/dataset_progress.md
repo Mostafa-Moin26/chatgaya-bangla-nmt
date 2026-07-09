@@ -85,4 +85,6 @@
 
 **Day 34:** 200 cannonical sentences
 
-**--------1500 canonical sentences completed---------**  
+**--------1500 canonical sentences completed---------**   
+
+**Day 35:** 150 cannonical sentences
