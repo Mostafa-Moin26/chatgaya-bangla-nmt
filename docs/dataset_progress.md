@@ -87,4 +87,8 @@
 
 **--------1500 canonical sentences completed---------**   
 
-**Day 35:** 150 cannonical sentences
+**Day 35:** 150 cannonical sentences 
+
+**Day 36:** 150 cannonical sentences
+
+**--------Freeze Canonical Dataset v1.0 (1800 sentence pairs)---------**   
