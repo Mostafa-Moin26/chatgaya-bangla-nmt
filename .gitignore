@@ -21,7 +21,7 @@ env/
 *.pth
 
 # Model directories
-app/Chatgaya Translator Server/models/
+server/Chatgaya Translator Server/models/
 
 # ==========================================================
 # Python generated files
